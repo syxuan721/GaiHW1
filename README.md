@@ -12,3 +12,6 @@ I created a new repository on GitHub and added three files: README.md, assistant
 - Add assistant-generated draft content
 - Revise and expand final version with personal edits
 - Update README with workflow description
+
+## Video Link
+The link is: https://youtu.be/SNnjtApVXFc
